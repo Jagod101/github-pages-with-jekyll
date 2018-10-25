@@ -1,15 +1,15 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: The Amazing World of a Computer Scientist
+author: GitHub User @Jagod101 aka Seth Rogen
+email: jagod101@mail.chapman.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I was told I needed to edit this text field, so that it the result.
+  I think that GitHub is an amazing resource, so all this implementation is insane!
+  Looking forward to learning more, so follow along in the Amazing World of a Computer Scientist
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+instagram_username: zjagoda
+github_username:  jagod101
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-cayman
+theme: minima
